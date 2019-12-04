@@ -8,4 +8,5 @@ E-kios merupakan aplikasi berbasis web yang sengaja dibuat untuk memudahkan penj
 ## Thanks to :
 - [Werls Media](https://www.instagram.com/werls.id/)
 - [Imam Asri](https://www.instagram.com/imam_a5ri/)
+- [Ali Mustofa](https://www.instagram.com/Alimustoofaa/)
 #
